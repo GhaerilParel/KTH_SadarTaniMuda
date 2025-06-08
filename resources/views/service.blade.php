@@ -105,7 +105,7 @@
         <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box">
-                    <figure class="logo-box"><a href="/"><img src="images/Logo_kth@4x-8.png"
+                    <figure class="logo-box"><a href="/"><img src="images/logo_kth@4x-8.png"
                                 style="height: 45px; width: auto;" alt=""></a></figure>
                     <div class="close-search"><span class="icon-27"></span></div>
                 </div>
@@ -175,7 +175,7 @@
             <div class="header-lower">
                 <div class="auto-container">
                     <div class="outer-box">
-                        <figure class="logo-box"><a href="/"><img src="images/Logo_kth@4x-8.png"
+                        <figure class="logo-box"><a href="/"><img src="images/logo_kth@4x-8.png"
                                     style="height: 45px; width: auto;" alt=""></a></figure>
                         <div class="menu-area">
                             <!--Mobile Navigation Toggler-->
@@ -212,7 +212,7 @@
             <div class="sticky-header">
                 <div class="outer-container">
                     <div class="outer-box">
-                        <figure class="logo-box"><a href="/"><img src="images/Logo_kth@4x-8.png"
+                        <figure class="logo-box"><a href="/"><img src="images/logo_kth@4x-8.png"
                                     style="height: 45px; width: auto;" alt=""></a></figure>
                         <div class="menu-area">
                             <nav class="main-menu clearfix">
@@ -360,7 +360,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget mr_30">
                                 <figure class="footer-logo mb_20">
-                                    <a href="/"><img src="images/Logo_kth@4x-8.png"
+                                    <a href="/"><img src="images/logo_kth@4x-8.png"
                                             style="height: 45px; width: auto;" alt=""></a>
                                 </figure>
                                 <p>KTH Sadar Tani Muda adalah kelompok tani hutan muda yang bergerak di bidang budidaya
